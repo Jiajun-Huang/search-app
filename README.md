@@ -1,3 +1,9 @@
+# This is my first project for React -- A search app
+
+The search app allow you to search the name of monster by entering the name, and the page update automatically as you typing the name.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

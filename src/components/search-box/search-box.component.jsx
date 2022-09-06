@@ -1,3 +1,4 @@
+import React, { Component } from "react";
 const SearchBox = ({ onChangeHandler, className, placeholder }) => {
   return (
     <input

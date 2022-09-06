@@ -1,5 +1,6 @@
 import "./card-list.style.css";
 import Card from "../card/card.component";
+import React, { Component } from "react";
 
 const CardList = ({ monsters }) => {
   // when props change, the render will be called

@@ -1,6 +1,5 @@
-import { Component } from "react";
 import "./card.style.css";
-
+import React, { Component } from "react";
 const Card = ({ id, name, email }) => {
   return (
     <li>
